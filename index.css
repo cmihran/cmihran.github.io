@@ -1,0 +1,45 @@
+h1, body > p {
+    text-align: center;
+}
+
+.left {
+    font-weight: bold;
+    width: 35%;
+}
+
+.right {
+    width: 65%;
+}
+
+.container {
+    margin: auto;
+    overflow: auto;
+    width: 80%;
+    padding: 20px;
+    border: 2.5px solid #c1c1c1;
+    border-radius: 10px;
+;
+}
+
+.container > div {
+    float: left;
+}
+
+.job > li {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+ul div {
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 25px;
+}
+
+.right > div {
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 20px;
+}
